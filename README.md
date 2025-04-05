@@ -6,8 +6,10 @@
 ### Datos Personales
 - Mi nombre es:
 - Vivo en Ramos Mejia
-
+- Trabajo en una carpinteria
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo dos perros, una vieja que se llama Vida y el otro gordito Jeff
+
+![Perros](./jeff y vida.jpg)
