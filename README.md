@@ -12,4 +12,4 @@
 - Este es mi primer contacto con github
 - Tengo dos perros, una vieja que se llama Vida y el otro gordito Jeff
 
-![Perros](./jeff y vida.jpg)
+![Perros](./perros.jpg)
